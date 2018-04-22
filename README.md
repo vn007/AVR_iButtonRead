@@ -1,6 +1,6 @@
 iButtonRead
 
-Test project to develop autonomous iButton id reader that detects
+Test project to develop autonomous iButtons' id reader that detects
 arbitrary number of iButton devices on 1wire IF and display them on
 LCD1602 in hexadecimal format.
 
